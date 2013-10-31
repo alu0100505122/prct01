@@ -22,6 +22,3 @@ Git Repository: https://github.com/alu0100505122/HIAN
     
     Estas configuraciones son las que se encargan de adjuntar los datos del usuario cada vez que se hace un commit.
     
-17. Situado en el directorio de trabajo (prct01), inicialícelo para que sea un repositorio git. (git init)
-
-18. Compruebe que se crea el directorio .git (ls -la).
